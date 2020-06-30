@@ -1,0 +1,34 @@
+Q. What is cloud computing??
+Ans. Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS). 
+
+Q. server vendors??
+Ans. HPE,Dell,IBM,Cisco,Lenovo,ODM
+
+Q. cloud computing vendors??
+Ans. 1.Amazon(Amazon Web Services AWS), 2.Microsoft(Azure), 3.Google(Google Cloud Platform GCP), 4.Alibaba cloud 5.IBM cloud, 6.Dell Technologies (VMware), 7. HPE, 8. Cisco systems 9.Oracle 10.SAP
+
+Q. Top players in Cloud computing – AWS,Azure,GCP
+
+Q. Types of cloud ??
+Ans. 1. Public cloud - Whole computing infrastructure is located on the premises of a cloud computing company that offers the cloud service.
+        2. Private cloud - Hosting all your computing infrastructure yourself and is not shared. The security and control level is highest while using a 		private network.
+        3. Hybrid cloud - using both private and public clouds, depending on their purpose. You host your most important applications on your own servers to keep 		them more secure and secondary applications elsewhere.  
+
+Q. Advantage of cloud??
+Ans. 1. Reduced expenditure -With the cloud, enterprises can focus on building their business rather than investing in hardware infrastructure and data centers 				that either remain idle, or underutilized. Cloud costs, however, depend on the consumption
+        2. Security-Cloud computing offers great security when any sensitive data has been lost. As the data is stored in the system, it can be easily accessed even if 	something happens to your computer. You can even remotely wipe out data from the lost machines for avoiding it getting in the wrong hands.
+        3. Reduced carbon footprint - Last, but not the least, cloud infrastructure significantly reduces power, IT infrastructure, and resource consumption by 	offering resources as per demand, thereby reducing e-waste and adverse impact on the environmental
+        4. Less Costs - The services are free from capital expenditure. There are no huge costs of hardware in cloud computing. You just have to pay as you operate 	it and enjoy the model based on your subscription plan.
+        5. 24 X 7 Availability(Maintenence) - Most of the cloud providers are truly reliable in offering their services, with most of them maintaining an uptime of 	99.9%. The workers can get onto the applications needed basically from anywhere. Some of the applications even function off-line.
+        6. All over Functioning(No geographical barrier) - Cloud computing offers yet another advantage of working from anywhere across the globe, as long as 		you have an internet connection. Even while using the critical cloud services that offer mobile apps, there is no limitation of the device used.
+        7. Automated Updates on Software - In cloud computing, the server suppliers regularly update your software including the updates on security, so that you 	do not need to agonize on wasting your crucial time on maintaining the system. You find extra time to focus on the important 	things like ‘How to 	grow your businesses.
+        8. Internet is through vendors.
+
+Q . Risks of cloud computing??
+Ans . 1. Privacy agreement and service level agreement , 2.Location of data,  3.Security and data protection , 4.legislation and regulation, 5.privacy agreement and service level agreement.
+
+Q. What is EC2??
+Ans. Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. 
+Amazon EC2's simple web service interface allows you to obtain and configure capacity with minimal friction.
+
+	
