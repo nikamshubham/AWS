@@ -31,4 +31,10 @@ Q. What is EC2??
 Ans. Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. 
 Amazon EC2's simple web service interface allows you to obtain and configure capacity with minimal friction.
 
+Q. 6.Difference between Cloud and Server
+1. Expanding storage in the cloud environment does not incur any downtime. Dedicated servers also take more time and resources to change processors without maintenance downtime. Websites hosted on a single server that requires additional processing capabilities require a total migration or networking with another server.
+2. Normal servers, in fact, refers to the regular physical technology you?re installing somewhere in the room, while cloud server  is perceived as an online system able to store a large amount of data, deliver software services, balance loading time, automate business process and operations, and allow enough customization for the user to make the desired changes. Super heroes, almost. With a normal server in place, such possibilities won?t be present.
+
+
+
 	
